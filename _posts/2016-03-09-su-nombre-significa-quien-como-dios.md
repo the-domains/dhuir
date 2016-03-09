@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Su nombre significa: «¿Quién como Dios?».'
-datePublished: '2016-03-09T15:48:28.306Z'
-dateModified: '2016-03-09T15:43:48.919Z'
+datePublished: '2016-03-09T17:34:28.615Z'
+dateModified: '2016-03-09T17:34:21.620Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-09-su-nombre-significa-quien-como-dios.md
