@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[DHUIR - Dejar de tener miedo, empezar a tener Fe]]></title>
         <description><![CDATA[DHUIR - Dejar de tener miedo, empezar a tener Fe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dhuir/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 15:33:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 15:36:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dhuir/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Arcangel Miguel]]></title>
             <description><![CDATA[<article><h1>Arcangel Miguel</h1><p>Su nombre significa: «¿Quién como Dios?».</p></article>]]></description>
-            <link>undefinedsu-nombre-significa-quien-como-dios/index.html</link>
+            <link>https://thegrid.ai/dhuir/su-nombre-significa-quien-como-dios/index.html</link>
             <guid isPermaLink="false">04f32a60-0904-46a3-b0a5-c04316640b7b</guid>
-            <pubDate>Wed, 09 Mar 2016 15:33:45 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 15:35:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
