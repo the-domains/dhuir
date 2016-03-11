@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'En humanos y en otras especies animales diurnas la secreción de la melatonina se produce durante las horas normales de sueño, a diferencia de los animales nocturnos que están en el máximo de su actividad mientras producen la melatonina. A la melatonina también se la conoce como “la hormona de la noche”. El ciclo de la melatonina es aproximadamente el contrario del ciclo de la temperatura corporal. A las 4 am la temperatura corporal pasa por su mínimo y el nivel de melatonina está en su máximo.'
-datePublished: '2016-03-11T20:57:22.430Z'
-dateModified: '2016-03-11T20:57:09.475Z'
+datePublished: '2016-03-11T21:04:04.237Z'
+dateModified: '2016-03-11T21:00:32.807Z'
 title: Melatonina
 author: []
 sourcePath: _posts/2016-03-11-melatonina.md
@@ -19,12 +19,12 @@ publisher:
   url: null
   favicon: null
 url: melatonina/index.html
-_type: WebPage
+_type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c62ef301-4821-4b2f-9911-4e7d8ce3e29d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9c810b8-d98a-41b1-9217-6f6b149828b1.jpg)
 
-Melatonina
+[Video melatonina][0]
 
 # Melatonina
 
@@ -43,3 +43,5 @@ La melatonina se toma poco antes de que la persona quiera irse a dormir. Despué
 El etiquetado podría decir de dónde viene, pero probablemente no lo diga. Algunas melatoninas proceden de origen animal, también puede ser sintética.
 
 La fórmula química de la melatonina es N-acetil-5-metoxitriptamina (número CAS 73--31--4).
+
+[0]: https://www.youtube.com/watch?v=-lDQTE97JGc
