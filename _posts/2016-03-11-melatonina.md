@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'En humanos y en otras especies animales diurnas la secreción de la melatonina se produce durante las horas normales de sueño, a diferencia de los animales nocturnos que están en el máximo de su actividad mientras producen la melatonina. A la melatonina también se la conoce como “la hormona de la noche”. El ciclo de la melatonina es aproximadamente el contrario del ciclo de la temperatura corporal. A las 4 am la temperatura corporal pasa por su mínimo y el nivel de melatonina está en su máximo.'
-datePublished: '2016-03-11T20:49:36.093Z'
-dateModified: '2016-03-11T20:46:41.910Z'
+datePublished: '2016-03-11T20:52:38.086Z'
+dateModified: '2016-03-11T20:52:24.871Z'
 title: Melatonina
 author: []
 sourcePath: _posts/2016-03-11-melatonina.md
