@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Su nombre significa: «¿Quién como Dios?».'
-datePublished: '2016-03-11T20:48:31.461Z'
-dateModified: '2016-03-11T20:48:28.922Z'
-title: Miguel Arcangel
+datePublished: '2016-03-11T20:49:25.321Z'
+dateModified: '2016-03-11T20:48:53.676Z'
+title: Arcangel Miguel
 author: []
 sourcePath: _posts/2016-03-09-su-nombre-significa-quien-como-dios.md
 published: true
@@ -24,7 +24,7 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a75737b-0ca7-48db-aaf1-adfec0f0801f.jpg)
 
-Arcangel Miguel
+# Arcangel Miguel
 
 **_Su nombre significa: «¿Quién como Dios?»._**
 
