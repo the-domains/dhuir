@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Fotos taller de Radiestesia
-datePublished: '2016-03-11T22:49:44.006Z'
-dateModified: '2016-03-11T22:49:42.515Z'
+datePublished: '2016-03-11T23:08:08.916Z'
+dateModified: '2016-03-11T23:04:35.718Z'
 title: Galería Taller de Radiestesia
 author: []
 sourcePath: _posts/2016-03-11-fotos-varias.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: fotos-varias/index.html
-_type: WebPage
+_type: Article
 
 ---
 ## Galería Taller de Radiestesia
