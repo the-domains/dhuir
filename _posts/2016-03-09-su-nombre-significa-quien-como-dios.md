@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Su nombre significa: «¿Quién como Dios?».'
-datePublished: '2016-03-11T20:52:47.008Z'
-dateModified: '2016-03-11T20:52:16.913Z'
+datePublished: '2016-03-11T21:14:06.161Z'
+dateModified: '2016-03-11T21:06:05.234Z'
 title: Arcangel Miguel
 author: []
 sourcePath: _posts/2016-03-09-su-nombre-significa-quien-como-dios.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: miguel-arcangel/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a75737b-0ca7-48db-aaf1-adfec0f0801f.jpg)
