@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: Claves para ser un buen lector e intérprete de Tarot
-datePublished: '2016-03-12T00:10:12.066Z'
-dateModified: '2016-03-12T00:10:09.654Z'
+description: 1- Se debe de estar en equilibrio interior.
+datePublished: '2016-03-12T00:12:18.164Z'
+dateModified: '2016-03-12T00:12:07.334Z'
 title: Tarot
 author: []
 sourcePath: _posts/2016-03-12-claves-para-ser-un-buen-lector-e-interprete-de-tarot.md
@@ -22,7 +22,7 @@ url: claves-para-ser-un-buen-lector-e-interprete-de-tarot/index.html
 _type: Article
 
 ---
-**Claves para ser un buen lector e intérprete de Tarot**
+# Tarot
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33584981-788d-4316-84de-6a586c4b7153.png)
 
 1- Se debe de estar en equilibrio interior.
