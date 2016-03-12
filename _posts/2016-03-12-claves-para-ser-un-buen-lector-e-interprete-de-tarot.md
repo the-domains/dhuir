@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-12T00:03:19.362Z'
-dateModified: '2016-03-12T00:00:40.351Z'
-title: Claves para ser un buen lector e intérprete de Tarot
+description: Claves para ser un buen lector e intérprete de Tarot
+datePublished: '2016-03-12T00:10:12.066Z'
+dateModified: '2016-03-12T00:10:09.654Z'
+title: Tarot
 author: []
+sourcePath: _posts/2016-03-12-claves-para-ser-un-buen-lector-e-interprete-de-tarot.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-claves-para-ser-un-buen-lector-e-interprete-de-tarot.md
-published: true
 url: claves-para-ser-un-buen-lector-e-interprete-de-tarot/index.html
 _type: Article
 
