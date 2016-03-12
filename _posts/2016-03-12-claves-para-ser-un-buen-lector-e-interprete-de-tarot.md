@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 1- Se debe de estar en equilibrio interior.
-datePublished: '2016-03-12T00:12:18.164Z'
-dateModified: '2016-03-12T00:12:07.334Z'
+datePublished: '2016-03-12T00:15:44.383Z'
+dateModified: '2016-03-12T00:12:27.157Z'
 title: Tarot
 author: []
 sourcePath: _posts/2016-03-12-claves-para-ser-un-buen-lector-e-interprete-de-tarot.md
