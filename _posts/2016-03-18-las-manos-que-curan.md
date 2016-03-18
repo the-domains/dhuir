@@ -6,23 +6,23 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-18T18:54:08.683Z'
-dateModified: '2016-03-18T18:54:01.033Z'
+datePublished: '2016-03-18T18:57:41.390Z'
+dateModified: '2016-03-18T18:57:27.168Z'
 title: Las manos que curan
 author: []
+sourcePath: _posts/2016-03-18-las-manos-que-curan.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-18-las-manos-que-curan.md
-published: true
 url: las-manos-que-curan/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7663168f-654e-4067-8d9f-d3fcca2f1c83.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fa42e61-b8b9-49c3-aba7-ea85ab848f04.jpg)
 
 # Las manos que curan
 
