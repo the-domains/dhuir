@@ -1,20 +1,5 @@
-name: Dhuir
-favicon: null
-layout_spectrum: 0.24283
-typography_spectrum: 0.09803
-title: 'DHUIR - Dejar de tener miedo, empezar a tener Fe'
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
   google: UA-75147095-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ed068e'
@@ -24,6 +9,11 @@ color:
     - '#f0519f'
   brandStrength: 0
   lightness: 0
-  saturation: 0
   rhythmicContrast: 0
+  saturation: 0
+cta: {}
+layout_spectrum: 0.406424
+name: Dhuir
+opengraph: {}
 purpose: []
+typography_spectrum: 0.150837
