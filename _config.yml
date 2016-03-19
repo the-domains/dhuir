@@ -1,6 +1,6 @@
 name: Dhuir
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.20848
 typography_spectrum: 0.150837
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#ba683d'
-    - '#2f2f2f'
-    - '#f8bd00'
-    - '#bc1a1e'
+    - '#573e3a'
+    - '#82a270'
+    - '#fdfdf3'
+    - '#070500'
+    - '#bcd38c'
   brandStrength: 0.6875
   lightness: 0.75
   saturation: 0.75
