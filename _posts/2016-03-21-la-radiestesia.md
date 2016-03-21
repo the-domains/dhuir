@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-21T00:30:24.555Z'
-dateModified: '2016-03-21T00:29:28.990Z'
+description: 'La Radiónica con sus funciones de sintonizar, canalizar, potenciar y emitir energía.'
+datePublished: '2016-03-21T00:32:17.532Z'
+dateModified: '2016-03-21T00:30:54.210Z'
 title: La Radiestesia
 author: []
 authors: []
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 # La Radiestesia
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60d70c67-011f-476a-b48c-6458f4aecd13.jpg)
 
 **La Radiestesia **se define como capacidad de "sentir las radiaciones energéticas".  Es una facultad que poseen todos los seres humanos que, consiste en hacer surgir un estado consiente que sustituye a los cinco sentidos habituales. 
 
