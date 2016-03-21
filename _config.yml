@@ -1,6 +1,6 @@
 name: Dhuir
 favicon: null
-layout_spectrum: 0.43612
+layout_spectrum: 0
 typography_spectrum: 0.150837
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#73739a'
     - '#f76910'
   brandStrength: 0.3125
-  lightness: 0.5
+  lightness: 0.3125
   saturation: 0.3125
   rhythmicContrast: 0.25
 purpose: []
