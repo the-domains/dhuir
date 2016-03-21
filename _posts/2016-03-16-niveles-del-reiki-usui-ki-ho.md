@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Primer Nivel\n\nShoden\_Servidor de LuzEn este nivel aprendemos a hacer Reiki a todo lo que podamos tocar (nosotros mismos, otras \n\npersonas, animales, plantas, a la tierra, a medicamentos, etc.).\n\nEl temario es el siguiente:\_"
-datePublished: '2016-03-16T01:49:03.978Z'
-dateModified: '2016-03-16T00:37:12.538Z'
+datePublished: '2016-03-21T01:11:05.624Z'
+dateModified: '2016-03-21T00:41:33.483Z'
 title: Niveles del Reiki Usui Ki Ho
 author: []
 sourcePath: _posts/2016-03-16-niveles-del-reiki-usui-ki-ho.md
@@ -22,8 +22,9 @@ url: niveles-del-reiki-usui-ki-ho/index.html
 _type: Article
 
 ---
-# Niveles del Reiki Usui Ki Ho
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/33133d8dd15855dbee926989740bca3fe4d4b969.png)
+
+# Niveles del Reiki Usui Ki Ho
 
 **Primer Nivel
 Shoden**  
