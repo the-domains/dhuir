@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-21T00:28:51.561Z'
-dateModified: '2016-03-21T00:28:45.398Z'
+datePublished: '2016-03-21T00:30:24.555Z'
+dateModified: '2016-03-21T00:29:28.990Z'
 title: La Radiestesia
 author: []
 authors: []
@@ -36,4 +36,3 @@ El**Feng Shui,** antiguo arte chino que enseña a vivir en armonía con la natur
 Más aún: los pensamientos, sentimientos y formas armónicas armonizan los ambientes. 
 
 **La Cromoterapia**, además de decirnos que el color lo percibimos no sólo con los ojos sino con todo el cuerpo, nos abre otra ventana interesantísima sobre la energía.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad1618d9-7282-424a-a9c6-439a6d8f73f0.jpg)
