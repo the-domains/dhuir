@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=1o90yuRH-8Y'
 title: Reiki Usui Ki Ho
-datePublished: '2016-03-29T02:29:25.338Z'
-dateModified: '2016-03-29T02:28:42.753Z'
+datePublished: '2016-03-29T02:43:56.485Z'
+dateModified: '2016-03-29T02:43:35.381Z'
 sourcePath: _posts/2016-03-29-reiki-usui-ki-ho.md
 published: true
 inFeed: true
