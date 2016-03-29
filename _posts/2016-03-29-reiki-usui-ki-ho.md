@@ -1,9 +1,9 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - reiki
   - duration
@@ -16,8 +16,8 @@ keywords:
   - tradicional
   - meditation
 description: "MUCHAS GRACIAS A TODOS, SOMOS UNA GRAN FAMILIA\_"
-datePublished: '2016-03-29T03:14:27.095Z'
-dateModified: '2016-03-29T03:14:10.397Z'
+datePublished: '2016-03-29T03:17:35.893Z'
+dateModified: '2016-03-29T03:17:32.476Z'
 author:
   - name: Alejandro Rojas
     url: 'https://www.youtube.com/user/osstemchile'
