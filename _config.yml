@@ -1,6 +1,6 @@
 name: Dhuir
 favicon: null
-layout_spectrum: 0.22293
+layout_spectrum: 0.50658
 typography_spectrum: 0.41227
 title: 'Dhuir dejar de tener miedo, empezar a tener Fe'
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.4375
   lightness: 0.9375
   saturation: 0.9375
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose: []
