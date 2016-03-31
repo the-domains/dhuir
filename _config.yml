@@ -1,19 +1,28 @@
+name: Dhuir
+favicon: null
+layout_spectrum: 0.206703
+typography_spectrum: 0.389664
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
   google: UA-75147095-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#C0C0C0'
-    - '#224962'
-    - '#808080'
-    - '#4088B8'
-    - '#70A8C8'
+    - '#ffffff'
+    - '#c9c9c9'
+    - '#7f7f7f'
+    - '#484848'
+    - '#050505'
   brandStrength: 0.4375
   lightness: 0.638268
-  rhythmicContrast: 0.400838
   saturation: 0.72905
-cta: {}
-layout_spectrum: 0.206703
-name: Dhuir
-opengraph: {}
+  rhythmicContrast: 0.400838
 purpose: []
-typography_spectrum: 0.389664
