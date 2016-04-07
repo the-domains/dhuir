@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: "Primer Nivel\n\nShoden\_Servidor de LuzEn este nivel aprendemos a hacer Reiki a todo lo que podamos tocar (nosotros mismos, otras \n\npersonas, animales, plantas, a la tierra, a medicamentos, etc.).\n\nEl temario es el siguiente:\_"
-datePublished: '2016-03-21T01:11:05.624Z'
-dateModified: '2016-03-21T00:41:33.483Z'
+datePublished: '2016-04-07T20:20:25.502Z'
+dateModified: '2016-04-07T20:20:23.573Z'
 title: Niveles del Reiki Usui Ki Ho
 author: []
 sourcePath: _posts/2016-03-16-niveles-del-reiki-usui-ki-ho.md
@@ -18,11 +19,10 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: niveles-del-reiki-usui-ki-ho/index.html
-_type: Article
+_type: Blurb
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/33133d8dd15855dbee926989740bca3fe4d4b969.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09c25f2d-2b75-4b07-9bb0-4e2eb6515e93.png)
 
 # Niveles del Reiki Usui Ki Ho
 
@@ -66,7 +66,9 @@ psíquico.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ee22dfa75d1d4222564ffe710f1af83ad0a93b8.png)
 
 **Tercer Nivel
-Shinpiden****_Maestro de Luz_**  
+Shinpiden**
+
+**_Maestro de Luz_**  
 Al realizar el Tercer nivel o Maestría, el terapeuta se transforma en un Maestro de Luz, 
 teniendo la misión de enseñar y pasar el legado de Reiki a futuras generaciones de 
 terapeutas.
