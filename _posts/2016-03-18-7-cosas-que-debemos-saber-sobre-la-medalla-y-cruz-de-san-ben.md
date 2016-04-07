@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Desde hace siglos, muchos cristianos han usado la medalla del famoso exorcista San Benito en la lucha espiritual contra las fuerzas del mal. Aquí 7 cosas que se debe saber sobre este especial objeto que posee mucha tradición e historia.'
-datePublished: '2016-04-07T20:19:54.051Z'
-dateModified: '2016-03-30T16:44:28.207Z'
+datePublished: '2016-04-07T20:20:42.177Z'
+dateModified: '2016-04-07T20:20:02.532Z'
 title: 7 cosas que debemos saber sobre la medalla y cruz de San Benito
 author: []
 sourcePath: _posts/2016-03-18-7-cosas-que-debemos-saber-sobre-la-medalla-y-cruz-de-san-ben.md
