@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 1- Se debe de estar en equilibrio interior.
-datePublished: '2016-03-31T02:41:55.608Z'
-dateModified: '2016-03-31T02:40:47.805Z'
+datePublished: '2016-04-07T20:12:32.371Z'
+dateModified: '2016-04-07T20:12:29.048Z'
 title: Tarot
 author: []
 sourcePath: _posts/2016-03-12-claves-para-ser-un-buen-lector-e-interprete-de-tarot.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: claves-para-ser-un-buen-lector-e-interprete-de-tarot/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Tarot
