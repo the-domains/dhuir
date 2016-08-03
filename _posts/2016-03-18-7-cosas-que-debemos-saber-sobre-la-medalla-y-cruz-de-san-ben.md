@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T13:34:09.600Z'
+datePublished: '2016-08-03T14:04:38.062Z'
 sourcePath: >-
   _posts/2016-03-18-7-cosas-que-debemos-saber-sobre-la-medalla-y-cruz-de-san-ben.md
 inFeed: true
@@ -10,7 +10,8 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-03T13:33:54.028Z'
+via: {}
+dateModified: '2016-08-03T14:04:37.147Z'
 title: Medalla de San Benito
 publisher: {}
 description: >-
@@ -19,7 +20,6 @@ description: >-
   se debe saber sobre este especial objeto que posee mucha tradición e historia.
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 _type: Blurb
 
