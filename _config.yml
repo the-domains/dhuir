@@ -37,6 +37,9 @@ navigation:
   - name: Medalla de San Benito
     id: 2e4316d3-e4fd-42d6-9c00-76e0f8c09211
     type: content
+  - name: Reiki Usui Ki Ho
+    id: b8dd7b1b-4179-4c2c-8c2b-8d2e253439c1
+    type: content
 favicon: null
 title: 'Dhuir, dejar de tener miedo, empezar a tener Fe'
 purpose: []
