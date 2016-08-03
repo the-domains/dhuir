@@ -34,9 +34,6 @@ navigation:
   - name: ¿Por qué Ki-Ho?
     id: 32d2de93-c488-422f-87a9-a62ceb2c7ed6
     type: content
-  - name: Medalla de San Benito
-    id: 2e4316d3-e4fd-42d6-9c00-76e0f8c09211
-    type: content
   - name: Reiki Usui Ki Ho
     id: b8dd7b1b-4179-4c2c-8c2b-8d2e253439c1
     type: content
@@ -45,6 +42,9 @@ navigation:
     type: content
   - name: Que es Duir y de donde procede
     id: 97b838bb-8618-4231-a826-061aa22cd2ec
+    type: content
+  - name: Medalla de San Benito
+    id: 2e4316d3-e4fd-42d6-9c00-76e0f8c09211
     type: content
 favicon: null
 title: 'Dhuir, dejar de tener miedo, empezar a tener Fe'
