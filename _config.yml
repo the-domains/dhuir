@@ -40,6 +40,9 @@ navigation:
   - name: Reiki Usui Ki Ho
     id: b8dd7b1b-4179-4c2c-8c2b-8d2e253439c1
     type: content
+  - name: Que es Duir y de donde procede
+    id: 97b838bb-8618-4231-a826-061aa22cd2ec
+    type: content
 favicon: null
 title: 'Dhuir, dejar de tener miedo, empezar a tener Fe'
 purpose: []
