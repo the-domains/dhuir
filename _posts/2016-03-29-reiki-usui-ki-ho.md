@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-08-03T13:35:26.840Z'
+datePublished: '2016-08-03T15:40:39.766Z'
 sourcePath: _posts/2016-03-29-reiki-usui-ki-ho.md
 inFeed: true
-isBasedOnUrl: 'https://www.youtube.com/watch?v=1o90yuRH-8Y'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - reiki
   - duration
@@ -21,7 +20,7 @@ author:
   - name: Alejandro Rojas
     url: 'https://www.youtube.com/user/osstemchile'
     avatar: {}
-dateModified: '2016-08-03T13:35:26.177Z'
+dateModified: '2016-08-03T15:40:38.820Z'
 title: Reiki Usui Ki Ho
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=1o90yuRH-8Y&feature=applinks'
@@ -70,6 +69,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: reiki-usui-ki-ho/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
