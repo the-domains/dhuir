@@ -46,6 +46,9 @@ navigation:
   - name: Medalla de San Benito
     id: 2e4316d3-e4fd-42d6-9c00-76e0f8c09211
     type: content
+  - name: dhuir
+    url: www.dhuir.cl
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/83245100-bd7d-4c56-b78e-6fc19db2eaf6.jpg
 title: 'Dhuir, dejar de tener miedo, empezar a tener Fe'
