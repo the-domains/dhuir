@@ -1,20 +1,4 @@
-name: Dhuir
-favicon: null
-layout_spectrum: 0.6520326822064817
 typography_spectrum: 0.06318415910936892
-title: 'Dhuir, dejar de tener miedo, empezar a tener Fe'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-75147095-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#2E0927'
@@ -26,4 +10,26 @@ color:
   lightness: 0.529468679567799
   saturation: 0.292806115699932
   rhythmicContrast: 0.3459579721093178
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6520326822064817
+analytics:
+  google: UA-75147095-1
+  facebook: null
+  twitter: null
+author:
+  name: Alejandro Rojas
+  email: alejandro.kiho@gmail.com
+  url: www.dhuir.cl
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d6ebf9f-85b6-4d38-8f38-419c37323ba0.jpg
+name: Dhuir
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'Dhuir, dejar de tener miedo, empezar a tener Fe'
 purpose: []
