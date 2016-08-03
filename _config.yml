@@ -30,6 +30,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: ¿Por qué Ki-Ho?
+    id: 32d2de93-c488-422f-87a9-a62ceb2c7ed6
+    type: content
 favicon: null
 title: 'Dhuir, dejar de tener miedo, empezar a tener Fe'
 purpose: []
