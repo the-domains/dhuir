@@ -1,12 +1,13 @@
 ---
-datePublished: '2016-08-03T15:39:54.287Z'
+datePublished: '2016-08-03T20:11:42.121Z'
 sourcePath: _posts/2016-03-16-por-que-ki-ho.md
 inFeed: false
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-08-03T15:39:53.360Z'
+via: {}
+dateModified: '2016-08-03T20:11:41.182Z'
 title: ¿Por qué Ki-Ho?
 publisher: {}
 description: >-
@@ -17,7 +18,6 @@ description: >-
   aprendizaje.
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: por-que-ki-ho/index.html
 _type: Blurb
