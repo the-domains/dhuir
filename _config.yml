@@ -1,4 +1,4 @@
-typography_spectrum: 0.2101289143320173
+typography_spectrum: 0.06318415910936892
 color:
   brandColors:
     - '#2E0927'
@@ -40,11 +40,11 @@ navigation:
   - name: Reiki Usui Ki Ho
     id: b8dd7b1b-4179-4c2c-8c2b-8d2e253439c1
     type: content
-  - name: Que es Duir y de donde procede
-    id: 97b838bb-8618-4231-a826-061aa22cd2ec
-    type: content
   - name: Niveles del Reiki Usui Ki Ho
     id: 0ebed4dd-8e3a-4266-8a65-91f3fd62c9cf
+    type: content
+  - name: Que es Duir y de donde procede
+    id: 97b838bb-8618-4231-a826-061aa22cd2ec
     type: content
 favicon: null
 title: 'Dhuir, dejar de tener miedo, empezar a tener Fe'
