@@ -1,33 +1,40 @@
 ---
+datePublished: '2016-08-03T13:33:45.919Z'
+sourcePath: >-
+  _posts/2016-03-18-7-cosas-que-debemos-saber-sobre-la-medalla-y-cruz-de-san-ben.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: ''
-inLanguage: null
-starred: false
-keywords: []
-description: 'Desde hace siglos, muchos cristianos han usado la medalla del famoso exorcista San Benito en la lucha espiritual contra las fuerzas del mal. Aquí 7 cosas que se debe saber sobre este especial objeto que posee mucha tradición e historia.'
-datePublished: '2016-04-07T20:20:42.177Z'
-dateModified: '2016-04-07T20:20:02.532Z'
-title: 7 cosas que debemos saber sobre la medalla y cruz de San Benito
-author: []
-sourcePath: _posts/2016-03-18-7-cosas-que-debemos-saber-sobre-la-medalla-y-cruz-de-san-ben.md
-published: true
 authors: []
+hasPage: false
+keywords: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-08-03T13:33:44.804Z'
+title: Medalla de San Benito
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+description: >-
+  Desde hace siglos, muchos cristianos han usado la medalla del famoso exorcista
+  San Benito en la lucha espiritual contra las fuerzas del mal. Aquí 7 cosas que
+  se debe saber sobre este especial objeto que posee mucha tradición e historia.
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 _type: Blurb
 
 ---
-# 7 cosas que debemos saber sobre la medalla y cruz de San Benito
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad7046e1-50f1-4f0b-a60a-f5d1d6ef9ee3.jpg)
 
 Desde hace siglos, muchos cristianos han usado la medalla del famoso exorcista San Benito en la lucha espiritual contra las fuerzas del mal. Aquí 7 cosas que se debe saber sobre este especial objeto que posee mucha tradición e historia.
 
-1.- El origen de la Medalla es incierto, pero se usó desde muy antiguo. En el S. XVII, durante  un juicio de brujería en Alemania, unas mujeres acusadas testificaron que no tenían poder sobre la Abadía de Metten porque estaba bajo la  protección de la cruz.
+1.- El origen de la Medalla es incierto, pero se usó desde muy antiguo. En el S. XVII, durante un juicio de brujería en Alemania, unas mujeres acusadas testificaron que no tenían poder sobre la Abadía de Metten porque estaba bajo la protección de la cruz.
+
+# 7 cosas que debemos saber sobre la medalla y cruz de San Benito
 
 Cuando se investigó, se hallaron en las paredes del recinto varias cruces pintadas rodeadas por las letras que se encuentran ahora en las medallas. Más adelante se encontró un pergamino con la imagen de San Benito y las palabras completas de las letras.
 
@@ -49,17 +56,17 @@ A ambos lados del Santo dice: "Crux Sancti Patris Benedicti" (Cruz del Santo Pad
 
 6.- En el reverso está la cruz de San Benito con las letras:
 
-C.S.P.B.      "Cruz del Santo Padre Benito".  
-C.S.S.M.L.  "La santa Cruz sea mi luz" (crucero vertical de la cruz).  
+C.S.P.B. "Cruz del Santo Padre Benito".  
+C.S.S.M.L. "La santa Cruz sea mi luz" (crucero vertical de la cruz).  
 N.D.S.M.D. "que el dragón infernal no sea mi guía" (crucero horizontal).
 
 En círculo, comenzando por arriba hacia la derecha:
 
-PAX          "Paz".  
-V.R.S.       "Vade Retro Satanás".  
-N.S.M.V.  "No me aconsejes cosas vanas".  
-S.M.Q.L.  "Es malo lo que me ofreces"  
-I.V.B.        "Traga tú mismo tu veneno".
+PAX "Paz".  
+V.R.S. "Vade Retro Satanás".  
+N.S.M.V. "No me aconsejes cosas vanas".  
+S.M.Q.L. "Es malo lo que me ofreces"  
+I.V.B. "Traga tú mismo tu veneno".
 
 7.- La medalla debe ser bendecida por un sacerdote con la oración especial que se presenta a continuación:
 
@@ -67,7 +74,7 @@ I.V.B.        "Traga tú mismo tu veneno".
 
 -Nuestra ayuda nos viene del Señor
 
--Que hizo el cielo y[][0]la tierra.  
+-Que hizo el cielo yla tierra.  
 Te ordeno, espíritu del mal, que abandones esta medalla, en el nombre de Dios Padre Omnipotente, que hizo el cielo y la tierra, el mar y todo lo que en ellos se contiene.  
 Que desaparezcan y se alejen de esta medalla toda la fuerza del adversario, todo el poder del diablo, todos los ataques e ilusiones de satanás, a fin de que todos los que la usaren gocen de la salud de alma y cuerpo.  
 En el nombre del Padre Omnipotente y de su Hijo, nuestro Señor, y del Espíritu Santo Paráclito, y por la caridad de Jesucristo, que ha de venir a juzgar a los vivos y a los muertos y al mundo por el fuego.
@@ -80,7 +87,6 @@ Oremos:
 Dios omnipotente, dador de todos los bienes, te suplicamos humildemente que por la intercesión de nuestro Padre San Benito, infundas tu bendición sobre esta sagrada medalla, a fin de que quien la lleve, dedicándose a las buenas obras, merezca conseguir la salud del alma y del cuerpo, la gracia de la santificación, y todas la indulgencias que se nos otorgan, y que por la ayuda de tu misericordia se esfuerce en evitar la acechanzas y engaños del diablo, y merezca aparecer santo y limpio en tu presencia.  
 Te lo pedimos por Cristo, nuestro Señor. Amén.
 
-[Fuente: aciprensa][1]
+[Fuente: aciprensa][0]
 
-[0]: null
-[1]: https://www.aciprensa.com/noticias/7-cosas-que-debemos-saber-sobre-la-medalla-y-cruz-de-san-benito-83474/
+[0]: https://www.aciprensa.com/noticias/7-cosas-que-debemos-saber-sobre-la-medalla-y-cruz-de-san-benito-83474/
