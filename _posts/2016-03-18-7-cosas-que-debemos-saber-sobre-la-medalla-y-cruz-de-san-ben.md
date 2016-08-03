@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-08-03T14:04:38.062Z'
+datePublished: '2016-08-03T15:40:18.864Z'
 sourcePath: >-
   _posts/2016-03-18-7-cosas-que-debemos-saber-sobre-la-medalla-y-cruz-de-san-ben.md
 inFeed: true
-isBasedOnUrl: ''
 authors: []
-hasPage: false
+hasPage: true
 keywords: []
 author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-03T14:04:37.147Z'
+dateModified: '2016-08-03T15:40:17.912Z'
 title: Medalla de San Benito
 publisher: {}
 description: >-
@@ -21,7 +20,8 @@ description: >-
 inLanguage: null
 inNav: false
 starred: false
-_type: Blurb
+url: medalla-de-san-benito/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad7046e1-50f1-4f0b-a60a-f5d1d6ef9ee3.jpg)
