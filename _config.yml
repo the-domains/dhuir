@@ -1,20 +1,20 @@
-typography_spectrum: 0.4335934924893081
+typography_spectrum: 0.363454855279997
 color:
   brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
-  brandStrength: 0.15948942815884948
-  lightness: 0.529468679567799
-  saturation: 0.292806115699932
-  rhythmicContrast: 0.3459579721093178
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  brandStrength: 0.06099094357341528
+  lightness: 0.738521165214479
+  saturation: 0.35445757396519184
+  rhythmicContrast: 0.8719745248090476
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.2905370616354048
+layout_spectrum: 0.2681776387616992
 analytics:
   google: UA-75147095-1
   facebook: null
@@ -53,3 +53,5 @@ favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/83245100-bd7d-4c56-b78e-6fc19db2eaf6.jpg
 title: 'Dhuir, dejar de tener miedo, empezar a tener Fe'
 purpose: []
+coverPrefs:
+  filter: false
