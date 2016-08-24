@@ -69,17 +69,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=4jK19gMYyWw'
 title: La Impactante Historia Oculta en The Matrix -2 ¿Vivimos en la Matriz?
-datePublished: '2016-08-05T19:15:44.728Z'
-dateModified: '2016-08-05T19:15:21.103Z'
+datePublished: '2016-08-24T22:51:40.624Z'
+dateModified: '2016-08-24T22:51:40.100Z'
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-05-la-impactante-historia-oculta-en-the-matrix-2-vivimos-en-l.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: la-impactante-historia-oculta-en-the-matrix-2-vivimos-en-l/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
