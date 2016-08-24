@@ -1,4 +1,3 @@
-layout_spectrum: 0.9800574756227434
 typography_spectrum: 0.5104466129560024
 color:
   brandColors:
@@ -11,12 +10,11 @@ color:
   lightness: 0.6024079679045826
   saturation: 0.4267650740221143
   rhythmicContrast: 0.6090919349808246
-coverPrefs:
-  filter: false
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.9800574756227434
 analytics:
   google: UA-75147095-1
   facebook: null
@@ -51,7 +49,12 @@ navigation:
   - name: dhuir
     url: www.dhuir.cl
     type: external
+  - name: Arcangel Miguel
+    id: 04f32a60-0904-46a3-b0a5-c04316640b7b
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/83245100-bd7d-4c56-b78e-6fc19db2eaf6.jpg
 title: 'Dhuir, dejar de tener miedo, empezar a tener Fe'
+coverPrefs:
+  filter: false
 purpose: []
