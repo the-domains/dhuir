@@ -3,21 +3,17 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: Por Valeria Solís T.
-datePublished: '2016-04-01T13:38:21.278Z'
-dateModified: '2016-04-01T13:35:38.223Z'
+datePublished: '2016-08-24T22:51:54.603Z'
+dateModified: '2016-08-24T22:51:53.760Z'
 title: Moon Mother Natalia Gómez
 author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: false
 sourcePath: _posts/2016-04-01-moon-mother-natalia-gomez.md
-published: true
 url: moon-mother-natalia-gomez/index.html
 _type: Article
 
@@ -106,6 +102,6 @@ Si uno lo ve, toda la sangre que se vierte a la tierra es de muerte, menos la me
 
 ****
 
-**Fuente:**
+[**Fuente: ****http://miradamaga.cl/articulo/magavaleria/toda-la-sangre-que-se-vierte-a-la-tierra-es-mortal-excepto-la-menstrual/**][0]
 
-****
+[0]: http://miradamaga.cl/articulo/magavaleria/toda-la-sangre-que-se-vierte-a-la-tierra-es-mortal-excepto-la-menstrual/
